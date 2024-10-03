@@ -17,9 +17,10 @@ Once that’s done, head to https://www.jetbrains.com/idea/ and click Download t
 
 The base code for this assignment is a slightly modified version of https://github.com/amidos2006/Mario-AI-Framework
 
-We will be storing this base code on the following repository: https://bitbucket.org/shortestpathlab/mario_ai_students/src/main/ so that in case there are any updates to the base code (which there shouldn’t be) it will be easy to roll them out.
+I will be storing this base code on the following repository: https://github.com/VincentOracle/Mario_Game_AI_Basecode OR https://bitbucket.org/shortestpathlab/mario_ai_students/src/main/ so that in case there are any updates to the base code (which there shouldn’t be) it will be easy to roll them out.
 
-Clone the above repository to wherever you would like on your own device, using whichever Git client (or the terminal) that you prefer using.
+Clone the above repository to wherever you would like on your own device, using whichever Git client (or the terminal) that you prefer using i.e. 
+```git clone https://github.com/VincentOracle/Mario_Game_AI_Basecode ```
 
 ### How Do I Start The Game? ###
 
